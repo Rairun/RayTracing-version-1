@@ -1,0 +1,12 @@
+camera:0,0,-20
+
+#light
+ intense:8
+ position:0,0,-200
+
+#cone
+ color:255,255,0
+ specular:50
+ angle:10
+ normal:0,1,0
+ center:0,0,1
